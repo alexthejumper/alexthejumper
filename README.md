@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexthejumper
 - 👀 I’m interested in ... CYBERSECURITY
 - 🌱 I’m currently learning ... SOFTWARE ENGINEERING
-- 💞️ I’m looking to collaborate on ... CYBERSECURITY PROJECTS
+- 💞️ I’m looking to collaborate on ... WEBSITE DEVELOPMENT PROJECTS
 - 📫 How to reach me ... YOU CAN'T REACH ME
 
 <!---
