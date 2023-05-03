@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexthejumper
-- 👀 I’m interested in ... NOTHING
+- 👀 I’m interested in ... SPIDERMAN
 - 🌱 I’m currently learning ... SOFTWARE ENGINEERING
 - 💞️ I’m looking to collaborate on ... WEBSITE DEVELOPMENT PROJECTS
 - 📫 How to reach me ... YOU CAN'T REACH ME
